@@ -12,10 +12,6 @@ java {
 		languageVersion = JavaLanguageVersion.of(17)
 	}
 }
-//yml
-plugins {
-    id 'org.springframework.boot' version '2.7.0'
-}
 
 repositories {
 	mavenCentral()
